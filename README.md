@@ -19,5 +19,10 @@ For this project I have chosen to divide the process into three major steps, and
 ## Usage
 This repository is created purely for educational purposes. For reference, the following list includes the relevant packages and modules used throughout the project: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/), [Scikit-learn](https://scikit-learn.org/stable/), and [Natural Language Toolkit (NLTK)](https://www.nltk.org/). `re` and `string` are also imported to provide access to Python regular expressions and a list of punctuation.
 
+**IMPORTANT**: sometimes GitHub is unable to render the Jupyter notebooks properly; if this happens, please use links below instead:
+- [*spam-filter.ipynb*](https://nbviewer.jupyter.org/github/ivanlstc/nlp-spam-filter/blob/master/spam-filter.ipynb)
+- [*spam-filter-ml.ipynb*](https://nbviewer.jupyter.org/github/ivanlstc/nlp-spam-filter/blob/master/spam-filter-ml.ipynb)
+- [*spam-filter-gridsearch.ipynb*](https://nbviewer.jupyter.org/github/ivanlstc/nlp-spam-filter/blob/master/spam-filter-gridsearch.ipynb)
+
 ## Author
 * [Ivan Li](https://www.linkedin.com/in/ivanli-sc/) - MSci Physics Graduate at Imperial College London
